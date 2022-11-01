@@ -8,7 +8,7 @@ LinkedList deve se usado onde mais operações de inserção e exclusão são ne
 
 
 ![image](https://user-images.githubusercontent.com/106537496/199353322-cd092378-d47b-4451-89a3-0f4c34e6d92b.png)
-   Fonte: Instrutora Camila Cavalcante 
+   Fonte: Camila Cavalcante 
    
    
 
